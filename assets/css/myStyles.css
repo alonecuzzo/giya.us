@@ -1,0 +1,29 @@
+.route {
+    margin-bottom: 20px;
+}
+
+.spotlight, .major {
+    font-family: "Montserrat";
+}
+
+.spotlight h3 {
+    color: black;
+}
+
+.major-title h2 {
+    color: black;
+}
+
+.spotlight .image {
+    border-radius: 0px;
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.submit-button {
+    height: inherit;
+    background-color: #65d5d8;
+}
+
+#mc_embed_signup {
+}
