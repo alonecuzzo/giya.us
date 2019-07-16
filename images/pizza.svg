@@ -1,62 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="219px" height="263px" viewBox="0 0 219 263" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="240px" height="244px" viewBox="0 0 240 244" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>Pizza Stop</title>
+    <title>pizza</title>
     <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="224" height="228" rx="8"></rect>
+        <filter x="-5.8%" y="-4.8%" width="111.6%" height="111.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.281140734 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Landing-page-Header" transform="translate(-444.000000, -462.000000)">
-            <g id="Pizza-Stop" transform="translate(452.000000, 470.000000)">
-                <g id="Map-pin" fill="#65D5D8" stroke="#FFFFFF">
-                    <ellipse id="Oval" stroke-width="13" cx="102.102192" cy="138.274871" rx="48.8389121" ry="110.052901"></ellipse>
-                    <ellipse id="Oval" stroke-width="16" cx="101.5" cy="101.554608" rx="101.5" ry="101.554608"></ellipse>
-                </g>
-                <g id="Slice" transform="translate(44.000000, 29.000000)">
-                    <g id="Base" stroke="#0A6A95">
-                        <path d="M12.2773723,2.68596193 C66.9092533,2.9741491 98.5789424,4.44272162 107.286439,7.09167949 C115.993936,9.74063735 117.769503,15.8883721 112.613139,25.5348837 L19.6712477,20.427907 L12.2773723,2.68596193 Z" id="Path-21" stroke-width="4" fill="#FFDA6A"></path>
-                        <path d="M13.5474453,18.7186954 C73.0207236,16.4661286 105.685919,18.7210208 111.543031,25.4833721 C117.400143,32.2457234 99.2135753,73.4024288 56.9833266,148.953488 L13.5474453,18.7186954 Z" id="Path-18" stroke-width="5" fill="#F3FFBD"></path>
-                        <path d="M2.49301437,14.7220408 C32.5662922,90.6409407 47.6029311,136.356722 47.6029311,151.869386 C47.6029311,167.382049 51.0686207,166.410084 58,148.953488 L12.2773723,13.2772 L2.49301437,14.7220408 Z" id="Path-20" stroke-width="4" fill="#D1E285"></path>
-                        <path d="M56.7117359,151.869386 L47.6029311,151.869386" id="Path-19" stroke-width="4"></path>
-                        <path d="M13.3451798,20.4202184 L4.23077824,20.4355955" id="Path-19-Copy" stroke-width="4" transform="translate(8.787979, 20.427907) rotate(-20.000000) translate(-8.787979, -20.427907) "></path>
-                        <ellipse id="Oval" stroke-width="4" fill="#E2BF54" transform="translate(12.277372, 11.065116) rotate(-12.000000) translate(-12.277372, -11.065116) " cx="12.2773723" cy="11.0651163" rx="10.5863487" ry="8.50971306"></ellipse>
+        <g id="Landing-page-Header" transform="translate(-699.000000, -758.000000)">
+            <g id="Pizza-Stop-Panel" transform="translate(701.000000, 764.000000)">
+                <g id="pizza" transform="translate(6.000000, 0.000000)">
+                    <g id="Rectangle-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#072961" fill-rule="evenodd" xlink:href="#path-1"></use>
                     </g>
-                    <g id="Pepperoni" transform="translate(43.182482, 25.534884)">
-                        <ellipse stroke="#0A6A95" stroke-width="4" fill="#F59971" cx="23.7080292" cy="36.6" rx="23.7080292" ry="36.6"></ellipse>
-                        <g id="Reflection" transform="translate(9.044627, 12.767442)" fill="#FBE5DB">
-                            <ellipse id="Oval" style="mix-blend-mode: overlay;" cx="3.38686131" cy="32.7046469" rx="3.38686131" ry="5.53255814"></ellipse>
-                            <ellipse id="Oval-Copy-56" style="mix-blend-mode: overlay;" cx="18.0502637" cy="14.8953488" rx="3.38686131" ry="5.53255814"></ellipse>
-                            <ellipse id="Oval-Copy-57" style="mix-blend-mode: overlay;" cx="24.8239863" cy="41.2813953" rx="3.38686131" ry="5.53255814"></ellipse>
-                            <ellipse id="Oval-Copy-58" style="mix-blend-mode: overlay;" cx="2.8093878" cy="2.97906977" rx="1.69343066" ry="2.97906977"></ellipse>
-                            <ellipse id="Oval-Copy-59" style="mix-blend-mode: overlay;" cx="16.3568331" cy="29.3651163" rx="1.69343066" ry="2.97906977"></ellipse>
-                            <ellipse id="Oval-Copy-60" style="mix-blend-mode: overlay;" cx="24.8239863" cy="2.97906977" rx="1.69343066" ry="2.97906977"></ellipse>
-                        </g>
-                    </g>
-                    <g id="Drops" transform="translate(20.646955, 20.135320)">
-                        <path d="M27.0948905,130.297729 C29.2605272,140.189748 26.4433905,148.341798 28.7360898,157.925609 C30.6767053,166.037659 39.0422591,160.991087 40.5324928,155.574936 C41.6197286,151.623454 34.1621693,139.503558 38.9365888,124.269767" id="Path-22" stroke="#0A6A95" stroke-width="4" fill="#D1E285"></path>
-                        <path d="M14.4434077,18.9888097 C20.3102428,27.2610397 12.5359709,30.803819 17.5920336,35.5055581" id="Path-25" stroke="#0A6A95" stroke-width="3" transform="translate(16.017721, 27.247184) rotate(17.000000) translate(-16.017721, -27.247184) "></path>
-                        <path d="M37.7898993,85.4435914 C43.6447226,93.6660381 35.8310233,97.2268185 40.885996,101.893682" id="Path-25-Copy-2" stroke="#0A6A95" stroke-width="2" transform="translate(39.337948, 93.668636) rotate(122.000000) translate(-39.337948, -93.668636) "></path>
-                        <path d="M77.587089,6.26157676 C83.4281628,14.5094158 75.6377761,18.0775289 80.6800472,22.7594171" id="Path-25-Copy" stroke="#0A6A95" stroke-width="2" transform="translate(79.133568, 14.510497) rotate(-25.000000) translate(-79.133568, -14.510497) "></path>
-                        <path d="M63.3787922,80.3376317 C60.6648624,89.3548266 64.1647616,96.2552369 58.1769503,104.866747 C57.5235606,105.806434 55.3857765,106.773023 54.8702954,105.750327 C53.6850565,103.398855 54.715395,100.480432 54.6379448,97.8454851" id="Path-26" stroke="#0A6A95" fill="#0A6A95"></path>
-                        <path d="M47.7056313,105.836773 C44.9917015,114.853968 48.4916007,121.754378 42.5037894,130.365888 C41.8503998,131.305576 39.7126156,132.272165 39.1971345,131.249469 C38.0118956,128.897996 39.0422341,125.979574 38.9647839,123.344627" id="Path-26-Copy" stroke="#0A6A95" fill="#0A6A95"></path>
-                        <g id="Left-Drip" transform="translate(0.520928, 32.636773)">
-                            <path d="M4.1587431,1.70232558 C6.12736085,12.2574767 -2.75552466,25.5698502 0.886816772,35.4662246 C1.91501698,38.259882 4.97786706,39.9369046 6.13413657,42.6794967 C7.46809222,45.8435482 6.63931751,49.7159905 8.186429,52.7804052 C8.60617827,53.6118164 10.5454031,52.3258926 10.8803729,52.0805233 C18.2109572,46.7107831 15.9704139,29.9180506 4.1587431,1.70232558 Z" id="Path-27" stroke="#0A6A95" stroke-width="4" fill="#F3FFBD"></path>
-                            <path d="" id="Path-28" stroke="#979797"></path>
-                            <path d="M7.96899611,0.425581395 C5.0377189,12.6255814 3.57208029,19.1511628 3.57208029,20.0023256 C3.57208029,20.8534884 5.40759485,24.9674419 9.07862397,32.344186 L18.0141994,44.0493368 L25.5008376,41.7166091 L13.1240876,4.82103924 L7.96899611,0.425581395 Z" id="Path-29" fill="#F3FFBD"></path>
-                            <path d="M14.0948335,32.2735329 C12.5580719,46.2436585 25.3889716,47.5845544 22.330463,39.3729288 C20.754448,35.1415704 21.2797863,30.5986374 20.754448,26.2114916" id="Path-30" stroke="#0A6A95" stroke-width="3" fill="#F3FFBD"></path>
-                            <g id="Top-bottom-drip" transform="translate(27.610858, 64.989271)">
-                                <path d="M0,3.40465116 C3.15290412,16.4533278 -1.33013353,44.3713483 2.98004106,47.6634539 C14.8464587,56.7270076 12.5105497,31.1921239 11.8610388,22.9552121" id="Path-31" stroke="#0A6A95" stroke-width="4" fill="#F3FFBD"></path>
-                                <path d="M13.7549897,19.5301962 C12.8787827,21.0866438 12.0025757,22.6430914 11.1263686,24.199539" id="Path-33" stroke="#0A6A95" stroke-width="3"></path>
-                                <path d="M1.87286154,2.09798328 C2.45415146,6.00718114 2.34256426,10.0862342 3.6167313,13.8255769 C4.29331897,15.8111824 13.3287395,2.47251324 5.3564667,0.727311955" id="Path-32" fill="#F3FFBD"></path>
+                    <g id="Pizza-Stop" transform="translate(41.000000, 25.000000)">
+                        <g>
+                            <g id="Pin" fill="#65D5D8" stroke="#FFFFFF">
+                                <g id="Oval">
+                                    <ellipse stroke-width="7.41" cx="68.8041211" cy="104.144121" rx="17.1" ry="73.815"></ellipse>
+                                    <circle stroke-width="9.12" cx="68.115" cy="68.115" r="68.115"></circle>
+                                </g>
                             </g>
-                        </g>
-                        <g id="Top-drip" transform="translate(26.769104, 0.292587)">
-                            <rect id="Rectangle" fill="#F3FFBD" x="5.9270073" y="0" width="22.8613139" height="9.3627907" rx="4.68139535"></rect>
-                            <polygon id="Path-24" fill="#F3FFBD" points="2.45497833 4.68139535 4.81105015 9.3627907 8.19791147 13.5368257 17.3576642 11.6635901 26.2481752 7.66046512 24.0685447 1.56587932"></polygon>
-                            <path d="M0,8.39220057 C5.80332721,9.1488872 6.57031985,14.9186121 13.8781934,13.2282017 C25.0865691,10.635552 28.1827418,2.2318767 39.2565009,13.0187358" id="Path-23" stroke="#0A6A95" stroke-width="4"></path>
-                        </g>
-                        <g id="Bottom-Pep-Drop" transform="translate(38.855099, 76.372019) rotate(-156.000000) translate(-38.855099, -76.372019) translate(26.355099, 71.872019)">
-                            <rect id="Rectangle" fill="#F3FFBD" x="3.38686131" y="0" width="14.3941606" height="5.95813953" rx="2.97906977"></rect>
-                            <polygon id="Path-24" fill="#F3FFBD" points="1.69343066 2.84484826 3.11878247 5.84057346 5.16773057 8.51162791 10.7091025 7.31290432 16.0875912 4.75121884 14.7689811 0.851162791"></polygon>
-                            <path d="M0,5.5309303 C3.62995207,5.96934009 4.10970213,9.3122086 8.68074042,8.33281703 C15.6915232,6.83068532 17.6281637,1.96175623 24.5547445,8.21145652" id="Path-23" stroke="#0A6A95" stroke-width="4"></path>
+                            <g id="Slice" transform="translate(28.200000, 15.000000)">
+                                <g id="Base" stroke="#0A6A95">
+                                    <path d="M8.7,1.893383 C47.4132813,2.09653134 69.8550781,3.13175459 76.0253906,4.99905275 C82.1957031,6.86635092 83.4539062,11.2 79.8,18 L13.9394531,14.4 L8.7,1.893383 Z" id="Path-21" stroke-width="2.4" fill="#FFDA6A"></path>
+                                    <path d="M9.6,13.1951459 C51.7439955,11.6072709 74.8912287,13.1967852 79.0416997,17.9636885 C83.1921706,22.7305919 70.3047921,51.7426957 40.3795642,105 L9.6,13.1951459 Z" id="Path-18" stroke-width="3" fill="#F3FFBD"></path>
+                                    <path d="M1.76660156,10.377832 C23.0771484,63.8944336 33.7324219,96.1203125 33.7324219,107.055469 C33.7324219,117.990625 36.1882812,117.305469 41.1,105 L8.7,9.35933768 L1.76660156,10.377832 Z" id="Path-20" stroke-width="2.4" fill="#D1E285"></path>
+                                    <path d="M40.1871094,107.055469 L33.7324219,107.055469" id="Path-19" stroke-width="2.4"></path>
+                                    <path d="M9.4546875,14.4 L3,14.4" id="Path-19-Copy" stroke-width="2.4" transform="translate(6.227344, 14.400000) rotate(-20.000000) translate(-6.227344, -14.400000) "></path>
+                                    <ellipse id="Oval" stroke-width="2.4" fill="#E2BF54" transform="translate(8.700000, 7.800000) rotate(-12.000000) translate(-8.700000, -7.800000) " cx="8.7" cy="7.8" rx="7.5" ry="6"></ellipse>
+                                </g>
+                                <g id="Pepperoni" transform="translate(30.600000, 18.000000)">
+                                    <ellipse stroke="#0A6A95" stroke-width="2.4" fill="#F59971" cx="16.8" cy="25.8" rx="16.8" ry="25.8"></ellipse>
+                                    <g id="Reflection" transform="translate(6.409210, 9.000000)" fill="#FBE5DB">
+                                        <ellipse id="Oval" style="mix-blend-mode: overlay;" cx="2.4" cy="23.0540953" rx="2.4" ry="3.9"></ellipse>
+                                        <ellipse id="Oval-Copy-56" style="mix-blend-mode: overlay;" cx="12.7907903" cy="10.5" rx="2.4" ry="3.9"></ellipse>
+                                        <ellipse id="Oval-Copy-57" style="mix-blend-mode: overlay;" cx="17.5907903" cy="29.1" rx="2.4" ry="3.9"></ellipse>
+                                        <ellipse id="Oval-Copy-58" style="mix-blend-mode: overlay;" cx="1.99079032" cy="2.1" rx="1.2" ry="2.1"></ellipse>
+                                        <ellipse id="Oval-Copy-59" style="mix-blend-mode: overlay;" cx="11.5907903" cy="20.7" rx="1.2" ry="2.1"></ellipse>
+                                        <ellipse id="Oval-Copy-60" style="mix-blend-mode: overlay;" cx="17.5907903" cy="2.1" rx="1.2" ry="2.1"></ellipse>
+                                    </g>
+                                </g>
+                                <g id="Drops" transform="translate(14.630859, 14.193750)">
+                                    <path d="M19.2,91.8492187 C20.734615,98.8222812 18.7383336,104.568809 20.3629878,111.324609 C21.7381481,117.04294 27.6661526,113.48552 28.722163,109.667578 C29.4926008,106.882107 24.20802,98.3385737 27.5912724,87.6" id="Path-22" stroke="#0A6A95" stroke-width="2.4" fill="#D1E285"></path>
+                                    <path d="M10.2439453,13.3845703 C14.3908853,19.2123591 8.88066837,21.7188976 12.4570312,25.0294922" id="Path-25" stroke="#0A6A95" stroke-width="1.8" transform="translate(11.350488, 19.207031) rotate(17.000000) translate(-11.350488, -19.207031) "></path>
+                                    <path d="M26.7691406,60.20625 C30.9160806,66.0340387 25.4058637,68.5405773 28.9822266,71.8511719" id="Path-25-Copy-2" stroke="#0A6A95" stroke-width="1.2" transform="translate(27.875684, 66.028711) rotate(122.000000) translate(-27.875684, -66.028711) "></path>
+                                    <path d="M54.9691406,4.40625 C59.1160806,10.2340387 53.6058637,12.7405773 57.1822266,16.0511719" id="Path-25-Copy" stroke="#0A6A95" stroke-width="1.2" transform="translate(56.075684, 10.228711) rotate(-25.000000) translate(-56.075684, -10.228711) "></path>
+                                    <path d="M44.9115234,56.6314453 C42.9883766,62.9878286 45.4684776,67.8520523 41.2253906,73.9224609 C40.7623852,74.5848636 39.2475071,75.2662296 38.8822266,74.5453125 C38.0423417,72.8877174 38.7724609,70.8304687 38.7175781,68.9730469" id="Path-26" stroke="#0A6A95" stroke-width="0.6" fill="#0A6A95"></path>
+                                    <path d="M33.8051974,74.60625 C31.8820506,80.9626333 34.3621516,85.8268569 30.1190646,91.8972656 C29.6560591,92.5596683 28.1411811,93.2410343 27.7759005,92.5201172 C26.9360157,90.8625221 27.6661349,88.8052734 27.6112521,86.9478516" id="Path-26-Copy" stroke="#0A6A95" stroke-width="0.6" fill="#0A6A95"></path>
+                                    <g id="Left-Drip" transform="translate(0.369141, 23.006250)">
+                                        <path d="M2.9469714,1.2 C4.34197467,8.64051639 -1.95262178,18.0246485 0.628416713,25.0007813 C1.35702066,26.9700807 3.52741959,28.1522442 4.34677609,30.0855469 C5.29204466,32.3159438 4.70475775,35.0456982 5.80107296,37.2058594 C6.09851598,37.7919361 7.47269084,36.8854653 7.71005734,36.7125 C12.904661,32.9272734 11.3169657,21.0897734 2.9469714,1.2 Z" id="Path-27" stroke="#0A6A95" stroke-width="2.4" fill="#F3FFBD"></path>
+                                        <path d="" id="Path-28" stroke="#979797" stroke-width="0.6"></path>
+                                        <path d="M5.64699552,0.3 C3.56983184,8.9 2.53125,13.5 2.53125,14.1 C2.53125,14.7 3.83193359,17.6 6.43330078,22.8 L12.7652344,31.0511719 L18.0704212,29.4067901 L9.3,3.3984375 L5.64699552,0.3 Z" id="Path-29" fill="#F3FFBD"></path>
+                                        <path d="M9.98789063,22.7501953 C8.89890959,32.5979888 17.9911505,33.5432105 15.8238281,27.7546875 C14.7070313,24.7719267 15.0792969,21.5695312 14.7070313,18.4769531" id="Path-30" stroke="#0A6A95" stroke-width="1.8" fill="#F3FFBD"></path>
+                                        <g id="Top-bottom-drip" transform="translate(19.565625, 45.812109)">
+                                            <path d="M0,2.4 C2.23421309,11.5982475 -0.942560142,31.2781636 2.11171875,33.5988281 C10.5205078,39.9878906 8.86523438,21.9878906 8.40497752,16.181543" id="Path-31" stroke="#0A6A95" stroke-width="2.4" fill="#F3FFBD"></path>
+                                            <path d="M9.74707031,13.7671875 C9.12617188,14.8643555 8.50527344,15.9615234 7.884375,17.0586914" id="Path-33" stroke="#0A6A95" stroke-width="1.8"></path>
+                                            <path d="M1.32714844,1.47890625 C1.7390625,4.23457031 1.6599895,7.1099684 2.56289063,9.74589844 C3.04233465,11.1455876 9.44502056,1.74291917 3.79570313,0.512695312" id="Path-32" fill="#F3FFBD"></path>
+                                        </g>
+                                    </g>
+                                    <g id="Top-drip" transform="translate(18.969141, 0.206250)">
+                                        <rect id="Rectangle" fill="#F3FFBD" x="4.2" y="0" width="16.2" height="6.6" rx="3.3"></rect>
+                                        <polygon id="Path-24" fill="#F3FFBD" points="1.73964844 3.3 3.40920968 6.6 5.80920968 9.54235254 12.3 8.221875 18.6 5.4 17.0554687 1.10381657"></polygon>
+                                        <path d="M0,5.91581352 C4.11235773,6.44921557 4.65586459,10.5163987 9.834375,9.32479789 C17.7768619,7.49719242 19.970874,1.57329013 27.8179687,9.17714164" id="Path-23" stroke="#0A6A95" stroke-width="2.4"></path>
+                                    </g>
+                                    <g id="Bottom-Pep-Drop" transform="translate(27.607617, 54.057422) rotate(-156.000000) translate(-27.607617, -54.057422) translate(18.907617, 51.057422)">
+                                        <rect id="Rectangle" fill="#F3FFBD" x="2.4" y="0" width="10.2" height="4.2" rx="2.1"></rect>
+                                        <polygon id="Path-24" fill="#F3FFBD" points="1.2 2.00538484 2.21003378 4.11712556 3.6619608 6 7.58869157 5.15499812 11.4 3.34921984 10.4656056 0.6"></polygon>
+                                        <path d="M0,3.89885251 C2.57225914,4.20789547 2.91221996,6.56434377 6.15135226,5.87395299 C11.119338,4.81507326 12.4916815,1.38287734 17.4,5.78840378" id="Path-23" stroke="#0A6A95" stroke-width="2.4"></path>
+                                    </g>
+                                </g>
+                            </g>
                         </g>
                     </g>
                 </g>
