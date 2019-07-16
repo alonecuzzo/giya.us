@@ -2211,7 +2211,7 @@ table.alt tbody tr td {
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: url("images/Map.png"), url("images/pattern-size1.svg");
+  background-image: url("images/Map.png")
   background-position: top left, center center;
   background-attachment: fixed, fixed;
   background-size: auto, cover;
@@ -2411,8 +2411,8 @@ table.alt tbody tr td {
         overflow: hidden; } }
 
   @media screen and (max-width: 736px) {
-    #header {
-      background-image: url("images/overlay.png"), url("images/pattern-size3.svg"); }
+    /* #header {
+      background-image: url("images/overlay.png"), url("images/pattern-size3.svg"); } */
       #header h1 {
         font-size: 2em; }
       #header p {
