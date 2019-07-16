@@ -1792,7 +1792,7 @@ table.alt tbody tr td {
         margin-top: 0;
         padding-top: 0; }
   .wrapper.style1 {
-    background-color: #4696e5;
+    background-color: #13499d;
     color: #d1e5f9; }
     .wrapper.style1 input[type="submit"],
     .wrapper.style1 input[type="reset"],
@@ -2338,7 +2338,7 @@ table.alt tbody tr td {
     font-weight: bold;
     margin-bottom: 0.5em; }
   #header p {
-    font-size: 1.5em;
+    /* font-size: 1.5em; */
     line-height: 1.35em; }
     #header p br {
       display: inline; }
