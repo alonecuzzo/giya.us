@@ -32,3 +32,11 @@
 .header-tagline p {
     margin-bottom: 10px; 
 }
+
+.inner-header {
+    font-size: 1.25em;
+}
+
+.footer-cta-header h2 {
+    margin-bottom: 30px;
+}
