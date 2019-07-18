@@ -2381,7 +2381,7 @@ table.alt tbody tr td {
       -ms-transition-delay: 0.75s;
       transition-delay: 0.75s;
       opacity: 1; }
-  @media screen and (max-width: 1280px) {
+  @media screen and (max-width: 1680px) {
     #header {
       background-image: url("images/Map.png") } }
   @media screen and (max-width: 980px) {
